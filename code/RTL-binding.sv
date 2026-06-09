@@ -1,4 +1,4 @@
-# code for fifo.sv
+# code for fifo_rtl.sv
 
 
   ...
